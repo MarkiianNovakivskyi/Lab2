@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lZzx3bC5JPgVLxqEG2ex+fKvnOG0HqYTbIncBzOU+lp6Ce1ilYn4kTLG14NyUtQp2ZqHoh8r1HVqgrNrruMfyA==",
+  "dgSpecHash": "tksxxdxVbj+rKxj+rI7oMKDzN2Mng+WJ0wzl3PbY92xKTaUxSxQqNnkCZ4FNlGISm+pyk6OLwlHmly/fJFBE/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\Lab2\\Money\\Money.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\year 4\\промислова розробка\\Lab2\\Money\\Money.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }
